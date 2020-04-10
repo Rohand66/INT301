@@ -1,4 +1,4 @@
-//Github link-
+//Github link-https://github.com/Rohand66/INT301/blob/master/project.php
 /*Problem Statement-You are required to print electricity bill for the number
 of unit.Units must be given as an input by the user,it will print 
 electricty bill using: 
